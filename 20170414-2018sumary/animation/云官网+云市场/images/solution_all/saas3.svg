@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="113px" viewBox="0 0 193 113" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 92</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-501.000000, -6669.000000)">
+            <g id="Group-92" transform="translate(501.000000, 6669.000000)">
+                <ellipse id="Oval-20" stroke="#FFC194" stroke-width="2" fill="#FFFFFF" cx="9" cy="31" rx="7" ry="7"></ellipse>
+                <ellipse id="Oval-20-Copy" stroke="#FFC194" stroke-width="2" fill="#FFFFFF" cx="187" cy="65" rx="5" ry="5"></ellipse>
+                <circle id="Oval-20-Copy-2" fill="#FFC194" cx="5" cy="106" r="5"></circle>
+                <ellipse id="Oval-20-Copy-4" fill="#FFC194" cx="166.5" cy="3.5" rx="3.5" ry="3.5"></ellipse>
+            </g>
+            <g id="Group-94" transform="translate(535.000000, 6693.000000)">
+                <rect id="Rectangle-28" stroke="#DD3730" stroke-width="2" x="0" y="0" width="124" height="88" rx="4"></rect>
+                <path d="M0,3.99620271 C0,1.78916089 1.80070204,0 4.00269397,0 L119.997306,0 C122.207933,0 124,1.78883037 124,3.99620271 L124,16 L0,16 L0,3.99620271 Z" id="Rectangle-28-Copy" stroke="#DD3730" stroke-width="2" fill="#FCE6DA"></path>
+                <ellipse id="Oval-25" fill="#DD3730" cx="10" cy="8" rx="3" ry="3"></ellipse>
+                <circle id="Oval-25-Copy" fill="#DD3730" cx="20" cy="8" r="3"></circle>
+                <ellipse id="Oval-25-Copy-2" fill="#DD3730" cx="30" cy="8" rx="3" ry="3"></ellipse>
+                <rect id="Rectangle-30" fill="#DD3730" x="1" y="15" width="123" height="2"></rect>
+                <g id="Group-95" transform="translate(38.000000, 29.310345)">
+                    <rect id="Rectangle-36" fill="#DD3730" x="16" y="40" width="19" height="2" rx="1"></rect>
+                    <rect id="Rectangle-34" fill="#DD3730" x="24" y="28" width="2" height="6"></rect>
+                    <rect id="Rectangle-32" stroke="#DD3730" stroke-width="2" x="9" y="34" width="32" height="16" rx="2"></rect>
+                    <path d="M9.2133476,1.99124431 C9.09551898,0.891510444 9.88926172,0 11.0017433,0 L38.9982567,0 C40.103789,0 40.9035824,0.899897516 40.7866524,1.99124431 L39.2787958,16.0645723 C38.5725364,22.656327 32.6285536,28 26.0083761,28 L23.9916239,28 C17.3688329,28 11.4286615,22.6675077 10.7212042,16.0645723 L9.2133476,1.99124431 Z" id="Rectangle-33" stroke="#DD3730" stroke-width="2" fill="#FCE6DA"></path>
+                    <path d="M16.9155079,13.7108523 C16.9155079,13.7108523 18.8814209,21.0149164 23.3966761,21.8583763" id="Path-13" stroke="#DD3730" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M37,0 L50.5744815,0 C50.5744815,0 51.6845477,8.99396171 40.3590579,11.8719518" id="Path-15" stroke="#DD3730" stroke-width="2"></path>
+                    <path d="M7.63833441e-14,0 L13.5744815,0 C13.5744815,0 14.6845477,8.99396171 3.3590579,11.8719518" id="Path-15-Copy" stroke="#DD3730" stroke-width="2" transform="translate(6.802151, 5.935976) scale(-1, 1) translate(-6.802151, -5.935976) "></path>
+                </g>
+                <polygon id="Star-2" fill="#DD3730" points="111.5 35.0603448 108.854966 36.4509213 109.360123 33.5056331 107.220246 31.4197684 110.177483 30.9900566 111.5 28.3103448 112.822517 30.9900566 115.779754 31.4197684 113.639877 33.5056331 114.145034 36.4509213"></polygon>
+                <polygon id="Star-2-Copy" fill="#DD3730" points="20.5 35.0603448 17.8549664 36.4509213 18.3601228 33.5056331 16.2202457 31.4197684 19.1774832 30.9900566 20.5 28.3103448 21.8225168 30.9900566 24.7797543 31.4197684 22.6398772 33.5056331 23.1450336 36.4509213"></polygon>
+                <path d="M84,56.7630275 C84,56.7630275 93.5489911,37.3064805 107.167594,33.3103448" id="Path-16" stroke="#DD3730" stroke-dasharray="2"></path>
+                <path d="M19,51.3103448 C19,51.3103448 26.8312331,35.5477816 38,32.3103448" id="Path-16-Copy" stroke="#DD3730" stroke-dasharray="2" transform="translate(28.500000, 41.810345) scale(-1, 1) translate(-28.500000, -41.810345) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

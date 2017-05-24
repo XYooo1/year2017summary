@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="解决方案页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-23" transform="translate(5.000000, 12.000000)">
+                <path d="M7.78947368,22.4642857 C3.48746616,22.4642857 0,18.9659889 0,14.6506211 C0,10.3352533 3.48746616,6.83695652 7.78947368,6.83695652 C8.18764062,6.83695652 8.57883004,6.86692362 8.96092275,6.92473205 C9.81379655,2.96609716 13.324744,-5.68434189e-14 17.5263158,-5.68434189e-14 C20.6920286,-5.68434189e-14 23.4656735,1.68385555 25.005695,4.20739764 C25.5599397,4.01269495 26.1558032,3.9068323 26.7763158,3.9068323 C29.733946,3.9068323 32.1315789,6.31191135 32.1315789,9.27872671 C32.1315789,9.80443158 32.0562979,10.312499 31.9159596,10.7926734 C34.7843334,11.1654819 37,13.6252077 37,16.6040373 C37,19.8405631 34.3844004,22.4642857 31.1578947,22.4642857 L7.78947383,22.4642857 Z" id="Combined-Shape" stroke="#40465B" stroke-width="2"></path>
+                <rect id="Rectangle-53" fill="#40465B" x="17" y="8" width="9" height="2"></rect>
+                <rect id="Rectangle-2" fill="#40465B" x="15" y="8" width="2" height="14"></rect>
+                <rect id="Rectangle-2" fill="#40465B" x="25" y="8" width="2" height="14"></rect>
+                <circle id="Oval-11" fill="#40465B" cx="23" cy="16" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

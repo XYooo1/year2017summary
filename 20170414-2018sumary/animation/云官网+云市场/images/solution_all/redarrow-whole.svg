@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="294px" height="105px" viewBox="0 0 294 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 98</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="108.795658%" y1="90.40187%" x2="-3.22386218%" y2="90.40187%" id="linearGradient-1">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-575.000000, -1029.000000)">
+            <g id="Group-98" transform="translate(575.000000, 1028.000000)">
+                <g id="Group-40" transform="translate(35.000000, 0.000000)" font-family="PingFangSC-Regular, PingFang SC" font-weight="normal">
+                    <text id="企业级" font-size="20" line-spacing="20" fill="#333333">
+                        <tspan x="0" y="48">企业级</tspan>
+                    </text>
+                    <text id="社会级" font-size="30" line-spacing="30" fill="#DD3730">
+                        <tspan x="123" y="32">社会级</tspan>
+                    </text>
+                    <text id="社会化商业" font-size="14" line-spacing="14" fill="#DD3730">
+                        <tspan x="133" y="68">社会化商业</tspan>
+                    </text>
+                </g>
+                <text id="企业边界、资源、经营要素、资产等的巨大变" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="0" y="104">企业边界、资源、经营要素、资产等的巨大变化</tspan>
+                </text>
+                <path d="M275.142136,40 L127,40 L127,43 L127,56 L3,56 L3,62 L130,62 L133,62 L133,46 L275.142136,46 L275.142136,57.2842712 L289.284271,43.1421356 L275.142136,29 L275.142136,40 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

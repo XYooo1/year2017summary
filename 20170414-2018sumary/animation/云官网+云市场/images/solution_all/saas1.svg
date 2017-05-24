@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="193px" height="120px" viewBox="0 0 193 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 92</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-225.000000, -6630.000000)">
+            <g id="Group-91" transform="translate(268.000000, 6643.000000)">
+                <path d="M0,49 C0,21.9380473 21.9380473,0 49,0 C76.0619527,0 98,21.9380473 98,49 L84,49 C84,29.6700338 68.3299662,14 49,14 C29.6700338,14 14,29.6700338 14,49 L1.0658141e-14,49 Z" id="Combined-Shape" stroke="#DD3730" stroke-width="2" fill="#FCE6DA"></path>
+                <rect id="Rectangle-22" fill="#DD3730" x="48" y="0" width="2" height="14"></rect>
+                <rect id="Rectangle-22-Copy" fill="#DD3730" transform="translate(77.656854, 18.656854) rotate(45.000000) translate(-77.656854, -18.656854) " x="76.6568542" y="11.6568542" width="2" height="14"></rect>
+                <rect id="Rectangle-22-Copy-2" fill="#DD3730" transform="translate(19.656854, 18.656854) scale(-1, 1) rotate(45.000000) translate(-19.656854, -18.656854) " x="18.6568542" y="11.6568542" width="2" height="14"></rect>
+                <g id="Group-90" transform="translate(45.000000, 31.000000)" stroke="#DD3730" stroke-width="2">
+                    <circle id="Oval-22" cx="4" cy="16" r="4"></circle>
+                    <path d="M7,12.3385895 L19.3385895,0" id="Path-12" stroke-linecap="round"></path>
+                </g>
+            </g>
+            <g id="Group-89" transform="translate(262.000000, 6704.000000)" stroke-width="2" stroke="#DD3730">
+                <g id="Group-88">
+                    <rect id="Rectangle-17" x="0" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy" x="42" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy-2" x="85" y="0" width="23" height="10" rx="2"></rect>
+                </g>
+                <g id="Group-88-Copy" transform="translate(54.000000, 23.000000) scale(-1, 1) translate(-54.000000, -23.000000) translate(0.000000, 18.000000)">
+                    <rect id="Rectangle-17" x="0" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy" x="44" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy-2" fill="#FCE6DA" x="88" y="0" width="20" height="10" rx="2"></rect>
+                </g>
+                <g id="Group-88-Copy-2" transform="translate(54.000000, 41.000000) scale(-1, 1) translate(-54.000000, -41.000000) translate(0.000000, 36.000000)">
+                    <rect id="Rectangle-17" fill="#FCE6DA" x="0" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy" fill="#FCE6DA" x="44" y="0" width="35" height="10" rx="2"></rect>
+                    <rect id="Rectangle-17-Copy-2" x="88" y="0" width="20" height="10" rx="2"></rect>
+                </g>
+            </g>
+            <g id="Group-92" transform="translate(225.000000, 6630.000000)">
+                <ellipse id="Oval-20" stroke="#FFC194" stroke-width="2" fill="#FFFFFF" cx="9" cy="33.5135135" rx="7" ry="7.56756757"></ellipse>
+                <ellipse id="Oval-20-Copy" stroke="#FFC194" stroke-width="2" fill="#FFFFFF" cx="187" cy="70.2702703" rx="5" ry="5.40540541"></ellipse>
+                <ellipse id="Oval-20-Copy-2" fill="#FFC194" cx="5" cy="114.594595" rx="5" ry="5.40540541"></ellipse>
+                <ellipse id="Oval-20-Copy-4" fill="#FFC194" cx="166.5" cy="3.78378378" rx="3.5" ry="3.78378378"></ellipse>
+                <ellipse id="Oval-20-Copy-3" fill="#FFC194" cx="152" cy="47.5675676" rx="5" ry="5.40540541"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

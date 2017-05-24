@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 81</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-1631.000000, -3480.000000)">
+            <g id="Group-81" transform="translate(1632.000000, 3481.000000)" stroke="#DF413A" stroke-width="1.5">
+                <ellipse id="Oval-9" cx="50" cy="49.9560312" rx="50" ry="49.9560312"></ellipse>
+            </g>
+            <g id="Group-31" transform="translate(1662.000000, 3509.000000)">
+                <path d="M19.1148189,0.48408343 C19.6036909,0.216731534 20.3995076,0.218480709 20.8851811,0.48408343 L39.1148189,10.4534166 C39.6036909,10.7207685 40,11.3943905 40,11.9342659 L40,31.8157341 C40,32.3662327 39.6004924,33.0309807 39.1148189,33.2965834 L20.8851811,43.2659166 C20.3963091,43.5332685 19.6004924,43.5315193 19.1148189,43.2659166 L0.885181129,33.2965834 C0.396309091,33.0292315 1.50546242e-13,32.3556095 1.50102153e-13,31.8157341 L1.38111744e-13,11.9342659 C1.37667655e-13,11.3837673 0.399507582,10.7190193 0.885181129,10.4534166 L19.1148189,0.48408343 Z" id="Polygon-2" stroke="#DF413A" stroke-width="2"></path>
+                <circle id="Oval-33" fill="#DF413A" cx="20" cy="22.5" r="3.75"></circle>
+                <rect id="Rectangle-43" fill="#DF413A" x="18.75" y="0" width="2.5" height="15" rx="1.25"></rect>
+                <rect id="Rectangle-43-Copy" fill="#DF413A" x="18.75" y="30" width="2.5" height="13.75" rx="1.25"></rect>
+                <path d="M1.25,32.5 L12.4110998,26.25" id="Path-18" stroke="#DF413A" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M26.25,17.8944574 L38.6610998,11.25" id="Path-18-Copy" stroke="#DF413A" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M1.25,11.25 L13.75,18.3222287" id="Path-18-Copy-2" stroke="#DF413A" stroke-width="2" stroke-linecap="round"></path>
+                <path d="M27.5,26.4472287 L38.75,32.5" id="Path-18-Copy-3" stroke="#DF413A" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="47px" viewBox="0 0 48 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="解决方案页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-3">
+            <g id="Group-20" transform="translate(3.000000, 4.000000)">
+                <g id="Group-4">
+                    <path d="M30.3489588,35 L38.0051562,35 C40.2181492,35 42,33.2100825 42,31.0021074 L42,3.99789262 C42,1.7837733 40.2114475,0 38.0051562,0 L7.99484381,0 C5.78185079,0 4,1.78991749 4,3.99789262 L4,13.0310981 C4.63894061,12.6034047 5.30679093,12.2155348 6,11.8710393 L6,3.99821383 C6,2.8946308 6.89194115,2 7.9999204,2 L38.0000796,2 C39.1046051,2 40,2.89433765 40,3.99821383 L40,31.0017862 C40,32.1053692 39.1080589,33 38.0000796,33 L31.2167389,33 C30.9778966,33.7034589 30.6873051,34.3701636 30.3489588,35 Z" id="Combined-Shape" fill="#40465B"></path>
+                    <g id="Group-3" transform="translate(0.000000, 13.000000)">
+                        <circle id="Oval" stroke="#40465B" stroke-width="2" cx="13" cy="13" r="13"></circle>
+                        <g id="Group-2" transform="translate(6.000000, 5.000000)" fill="#40465B">
+                            <rect id="Rectangle-13" x="0" y="0" width="4" height="2"></rect>
+                            <rect id="Rectangle-13" x="4" y="2" width="2" height="2"></rect>
+                            <rect id="Rectangle-13" x="8" y="2" width="2" height="2"></rect>
+                            <rect id="Rectangle-13" x="10" y="0" width="4" height="2"></rect>
+                            <rect id="Rectangle-13" x="6" y="4" width="2" height="14"></rect>
+                            <rect id="Rectangle-13" x="0" y="6" width="14" height="2"></rect>
+                            <rect id="Rectangle-13" x="2" y="10" width="9" height="2"></rect>
+                        </g>
+                    </g>
+                    <rect id="Rectangle-14" fill="#40465B" x="28" y="5" width="9" height="2"></rect>
+                    <rect id="Rectangle-14" fill="#40465B" transform="translate(36.000000, 10.000000) rotate(-270.000000) translate(-36.000000, -10.000000) " x="31" y="9" width="10" height="2"></rect>
+                </g>
+                <polyline id="Path-4" stroke="#40465B" stroke-width="2" points="36 6 28 13 20 6 12 13"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="872px" height="92px" viewBox="0 0 872 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 104</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="870" height="90"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="872" height="92">
+            <rect x="-1" y="-1" width="872" height="92" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <linearGradient x1="17.0483518%" y1="59.3217263%" x2="134.532707%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="118.427548%" y1="-17.8088961%" x2="7.39532735%" y2="103.359532%" id="linearGradient-4">
+            <stop stop-color="#FFC194" offset="0%"></stop>
+            <stop stop-color="#DD3730" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="15" y="15" width="140" height="60" rx="2"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="140" height="60" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-523.000000, -6892.000000)">
+            <g id="Group-104" transform="translate(524.000000, 6893.000000)">
+                <g id="Rectangle-7-Copy-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#DD3730" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="1,2" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle" opacity="0.6" x="187" y="15" width="126.391677" height="60"></rect>
+                <rect id="Rectangle-Copy" opacity="0.6" x="322" y="15" width="126.391677" height="60"></rect>
+                <text id="餐饮云" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="231" y="51">餐饮云</tspan>
+                </text>
+                <text id="建筑云" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="366" y="51">建筑云</tspan>
+                </text>
+                <rect id="Rectangle-Copy-2" opacity="0.6" x="458" y="15" width="126.391677" height="60"></rect>
+                <text id="汽车云" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="502" y="51">汽车云</tspan>
+                </text>
+                <rect id="Rectangle-Copy-2" opacity="0.6" x="593" y="15" width="126.391677" height="60"></rect>
+                <text id="政务云" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="637" y="51">政务云</tspan>
+                </text>
+                <rect id="Rectangle-Copy-2" opacity="0.6" x="729" y="15" width="126.391677" height="60"></rect>
+                <text id="其他行业云" font-family="MicrosoftYaHei, Microsoft YaHei" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="760" y="51">其他行业云</tspan>
+                </text>
+                <use id="Rectangle-50-Copy" stroke="url(#linearGradient-4)" mask="url(#mask-6)" stroke-width="2" fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                <text id="行业云服务" font-family="PingFangSC-Semibold, PingFang SC" font-size="17" font-weight="500" fill="#FFFFFF">
+                    <tspan x="43" y="51">行业云服务</tspan>
+                </text>
+                <path d="M171,15 L171,75" id="Line" stroke="#DD3730" stroke-linecap="square" stroke-dasharray="1,2"></path>
+                <path d="M323,35 L323,55" id="Line" stroke="#DD3730" stroke-linecap="square" stroke-dasharray="1,2"></path>
+                <path d="M459,35 L459,55" id="Line" stroke="#DD3730" stroke-linecap="square" stroke-dasharray="1,2"></path>
+                <path d="M594,35 L594,55" id="Line" stroke="#DD3730" stroke-linecap="square" stroke-dasharray="1,2"></path>
+                <path d="M726,35 L726,55" id="Line" stroke="#DD3730" stroke-linecap="square" stroke-dasharray="1,2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

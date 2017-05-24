@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="248px" height="137px" viewBox="0 0 248 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 99</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="9.06889841%" y1="50%" x2="139.534416%" y2="-20.1686708%" id="linearGradient-1">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-850.000000, -1844.000000)">
+            <g id="Group-25" transform="translate(-4.000000, 1637.000000)"></g>
+            <g id="Group-99" transform="translate(850.000000, 1845.000000)">
+                <path d="M87.3012702,60.8994949 L101,60.8994949 L101,48 L120.79899,67.7989899 L101,87.5979797 L101,74.8994949 L87.3012702,74.8994949 L87.3012702,93 L44,118 L0.698729811,93 L0.698729811,43 L44,18 L87.3012702,43 L87.3012702,60.8994949 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="厂商主导" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="18" y="72">厂商主导</tspan>
+                </text>
+                <text id="客户导向" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#DD3730">
+                    <tspan x="161" y="72">客户导向</tspan>
+                </text>
+                <polygon id="Polygon-Copy" stroke="#DD3730" points="188.466659 0 246.894499 33.7333294 246.894499 101.199988 188.466659 134.933318 130.038818 101.199988 130.038818 33.7333294"></polygon>
+                <polygon id="Polygon-Copy-2" stroke="#DD3730" stroke-dasharray="3" points="188.585056 7 241.170113 37.3599965 241.170113 98.0799894 188.585056 128.439986 136 98.0799894 136 37.3599965"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="103px" viewBox="0 0 102 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Oval 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="34" height="12.4666667" rx="2"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="12.4666667" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="14.7333333" width="34" height="12.4666667" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="12.4666667" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-760.000000, -7521.000000)">
+            <circle id="Oval-9" stroke="#DF413A" stroke-width="1.5" cx="811" cy="7572.29946" r="50"></circle>
+            <g id="Group-96" transform="translate(794.000000, 7554.732789)">
+                <rect id="Rectangle-38" fill="#DF413A" x="15.8666667" y="27.2" width="2.26666667" height="7.93333333"></rect>
+                <rect id="Rectangle-38-Copy" fill="#DF413A" transform="translate(17.000000, 34.000000) rotate(-270.000000) translate(-17.000000, -34.000000) " x="15.8666667" y="19.2666667" width="2.26666667" height="29.4666667" rx="1.13333333"></rect>
+                <use id="Rectangle-37" stroke="#DF413A" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                <use id="Rectangle-37-Copy" stroke="#DF413A" mask="url(#mask-4)" stroke-width="4" xlink:href="#path-3"></use>
+                <ellipse id="Oval-26" fill="#DF413A" cx="27.7666667" cy="20.9666667" rx="1.7" ry="1.7"></ellipse>
+                <ellipse id="Oval-26-Copy" fill="#DF413A" cx="27.7666667" cy="6.23333333" rx="1.7" ry="1.7"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

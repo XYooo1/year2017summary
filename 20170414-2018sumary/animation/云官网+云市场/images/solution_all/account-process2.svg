@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="942px" height="68px" viewBox="0 0 942 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 112</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-494.000000, -5368.000000)">
+            <g id="Group-112" transform="translate(495.000000, 5368.000000)" stroke="#D7D7D7">
+                <path d="M435.843697,0 L435.843697,7.49520023 C435.843697,13.0174357 431.370131,17.4940921 425.84314,17.4940921 L10.0005571,17.4940921 C4.47740192,17.4940921 -5.45356061e-16,21.976467 9.86076132e-32,27.4906452 L3.93345859e-15,67.2624441" id="Path-37"></path>
+                <path d="M939.843697,0 L939.843697,7.49520023 C939.843697,13.0174357 935.370131,17.4940921 929.84314,17.4940921 L514.000557,17.4940921 C508.477402,17.4940921 504,21.976467 504,27.4906452 L504,67.2624441" id="Path-37-Copy" transform="translate(721.921849, 33.631222) scale(-1, 1) translate(-721.921849, -33.631222) "></path>
+            </g>
+            <g id="Group-111" transform="translate(373.000000, 5432.000000)" font-size="14" font-family="PingFangSC-Regular, PingFang SC" line-spacing="20" fill="#666666" font-weight="normal">
+                <text id="•-轻量级(应用碎片/小型化/微服务)">
+                    <tspan x="929" y="15"></tspan>
+                    <tspan x="929" y="35">•  轻量级(应用碎片/小型化/微服务)</tspan>
+                    <tspan x="929" y="55"></tspan>
+                    <tspan x="929" y="75">•  基于框架与平台、松耦合，易集成</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

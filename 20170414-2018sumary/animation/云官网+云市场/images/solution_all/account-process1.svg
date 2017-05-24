@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1190px" height="286px" viewBox="0 0 1190 286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 105</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="78.073602%" y1="14.991091%" x2="0%" y2="130.246025%" id="linearGradient-1">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-16.7074872%" y1="63.3404437%" x2="121.955243%" y2="25.4901076%" id="linearGradient-2">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="84.7821209%" x2="150.718821%" y2="-18.6213655%" id="linearGradient-3">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="70.6462157%" x2="127.965412%" y2="17.0574832%" id="linearGradient-4">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="5" y="5" width="24" height="24" rx="1"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="24" height="24" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <linearGradient x1="0%" y1="71.3860388%" x2="127.22174%" y2="17.1587685%" id="linearGradient-7">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-22.0365965%" y1="63.6681208%" x2="146.953275%" y2="20.2805042%" id="linearGradient-8">
+            <stop stop-color="#DD3730" offset="0%"></stop>
+            <stop stop-color="#FFC194" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="用友云整体方案" transform="translate(-365.000000, -5023.000000)">
+            <g id="Group-105" transform="translate(365.000000, 5023.000000)">
+                <path d="M1060.32819,90.7172078 C1061.87559,90.7172078 1063.13,89.3740621 1063.13,87.7172078 C1063.13,86.0603536 1061.87559,84.7172078 1060.32819,84.7172078 L19.801814,84.7172078 C18.2544148,84.7172078 17,86.0603536 17,87.7172078 C17,89.3740621 18.2544148,90.7172078 19.801814,90.7172078 L1060.32819,90.7172078 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero" opacity="0.5"></path>
+                <g id="Group-110" transform="translate(1024.000000, 0.000000)">
+                    <path d="M0,6.39561556 C0,3.08165523 2.68486528,0.395159583 6.00117125,0.395159583 L91.9988287,0.395159583 C95.3131841,0.395159583 99.7043028,2.46966973 101.813215,5.03667825 L164.186785,80.9589863 C166.292765,83.5224263 166.287036,87.6755074 164.174312,90.2347602 L101.825688,165.760904 C99.7128187,168.320333 95.3151347,170.39516 91.9988287,170.39516 L6.00117125,170.39516 C2.68681589,170.39516 0,167.707729 0,164.394704 L0,6.39561556 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                    <g id="Group-109" transform="translate(109.000000, 70.000000)">
+                        <rect id="Rectangle-67" stroke="#FFFFFF" stroke-width="2" x="4" y="21" width="6" height="9" rx="1"></rect>
+                        <rect id="Rectangle-67-Copy" stroke="#FFFFFF" stroke-width="2" x="14" y="16" width="6" height="14" rx="1"></rect>
+                        <rect id="Rectangle-67-Copy-2" stroke="#FFFFFF" stroke-width="2" x="24" y="10" width="6" height="20" rx="1"></rect>
+                        <rect id="Rectangle-66" fill="#FFFFFF" x="0" y="29" width="34" height="2" rx="1"></rect>
+                        <polyline id="Path-22" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="3.5 16.0643196 14.586164 4.97815555 19.2167493 9.60874087 28.8254902 0"></polyline>
+                        <polyline id="Rectangle-68" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="23 0 29 0 29 6"></polyline>
+                    </g>
+                    <text id="增长收入-降低成本-提高效率-控制风险" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="17" y="47">增长收入</tspan>
+                        <tspan x="17" y="78">降低成本</tspan>
+                        <tspan x="17" y="109">提高效率</tspan>
+                        <tspan x="17" y="140">控制风险</tspan>
+                    </text>
+                </g>
+                <g id="Group-103" transform="translate(0.000000, 17.000000)">
+                    <circle id="Oval-15" fill="#DD3730" opacity="0.100000001" cx="70" cy="70" r="70"></circle>
+                    <circle id="Oval-15-Copy" fill="url(#linearGradient-3)" cx="70" cy="70" r="60"></circle>
+                    <text id="关键技术" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="35" y="101">关键技术</tspan>
+                    </text>
+                    <g id="Group-106" transform="translate(51.000000, 34.000000)">
+                        <rect id="Rectangle-50" fill="#FFFFFF" x="1" y="11" width="36" height="2"></rect>
+                        <path d="M18.4446733,0.789317025 C18.789075,0.353389269 19.3451731,0.350494086 19.691862,0.789317025 L37.512941,23.3464176 C37.8573426,23.7823454 37.91057,24.5121951 37.6243787,24.9889927 L31.3652619,35.4167424 C31.0824056,35.8879838 30.4033161,36.2700005 29.8554002,36.2700005 L8.28113516,36.2700005 C7.7301179,36.2700005 7.05746482,35.89354 6.77127348,35.4167424 L0.512156664,24.9889927 C0.229300349,24.5177513 0.276905392,23.7852406 0.623594373,23.3464176 L18.4446733,0.789317025 Z" id="Polygon-3" stroke="#FFFFFF" stroke-width="2" transform="translate(19.068268, 18.135000) scale(1, -1) translate(-19.068268, -18.135000) "></path>
+                        <polyline id="Path-20" stroke="#FFFFFF" stroke-width="2" points="18.9242987 0 10 11.8144284 18.97737 36.0690406"></polyline>
+                        <polyline id="Path-20-Copy" stroke="#FFFFFF" stroke-width="2" transform="translate(23.488685, 18.034520) scale(-1, 1) translate(-23.488685, -18.034520) " points="27.9242987 0 19 11.8144284 27.97737 36.0690406"></polyline>
+                    </g>
+                </g>
+                <g id="Group-103-Copy" transform="translate(257.000000, 17.000000)">
+                    <circle id="Oval-15" fill="#DD3730" opacity="0.100000001" cx="70" cy="70" r="70"></circle>
+                    <circle id="Oval-15-Copy" fill="url(#linearGradient-4)" cx="70" cy="70" r="60"></circle>
+                    <g id="Group-107" transform="translate(53.000000, 35.000000)" stroke="#FFFFFF">
+                        <use id="Rectangle-52" mask="url(#mask-6)" stroke-width="4" xlink:href="#path-5"></use>
+                        <rect id="Rectangle-51" stroke-width="2" x="0" y="0" width="12" height="12" rx="1"></rect>
+                        <rect id="Rectangle-51-Copy-3" stroke-width="2" x="22" y="0" width="12" height="12" rx="1"></rect>
+                        <rect id="Rectangle-51-Copy" stroke-width="2" x="0" y="22" width="12" height="12" rx="1"></rect>
+                        <rect id="Rectangle-51-Copy-2" stroke-width="2" x="22" y="22" width="12" height="12" rx="1"></rect>
+                    </g>
+                    <text id="部署模式" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="35" y="101">部署模式</tspan>
+                    </text>
+                </g>
+                <g id="Group-103-Copy-2" transform="translate(514.000000, 17.000000)">
+                    <circle id="Oval-15" fill="#DD3730" opacity="0.200000003" cx="70" cy="70" r="70"></circle>
+                    <circle id="Oval-15-Copy" fill="url(#linearGradient-7)" cx="70" cy="70" r="60"></circle>
+                    <g id="Group-107-Copy" transform="translate(53.000000, 34.000000)">
+                        <rect id="Rectangle-52" stroke="#FFFFFF" stroke-width="2" x="7" y="11" width="20" height="12" rx="1"></rect>
+                        <path d="M3,17 C3,16.4477153 3.45303631,16 3.99703014,16 L10.0029699,16 C10.5536144,16 11,16.4438648 11,17 C11,17.5522847 10.5469637,18 10.0029699,18 L3.99703014,18 C3.4463856,18 3,17.5561352 3,17 Z M23,17 C23,16.4477153 23.4530363,16 23.9970301,16 L30.0029699,16 C30.5536144,16 31,16.4438648 31,17 C31,17.5522847 30.5469637,18 30.0029699,18 L23.9970301,18 C23.4463856,18 23,17.5561352 23,17 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <polyline id="Rectangle-51" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="0 12 0 0 0 0 12 0"></polyline>
+                        <polyline id="Rectangle-51-Copy-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="22 0 34 0 34 12"></polyline>
+                        <polyline id="Rectangle-51-Copy" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="12 34 0 34 0 22 0 22"></polyline>
+                        <polyline id="Rectangle-51-Copy-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" points="34 22 34 34 22 34"></polyline>
+                    </g>
+                    <text id="焦点领域" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="36" y="101">焦点领域</tspan>
+                    </text>
+                </g>
+                <g id="Group-103-Copy-3" transform="translate(771.000000, 17.000000)">
+                    <circle id="Oval-15" fill="#DD3730" opacity="0.200000003" cx="70" cy="70" r="70"></circle>
+                    <circle id="Oval-15-Copy" fill="url(#linearGradient-8)" cx="70" cy="70" r="60"></circle>
+                    <g id="Group-108" transform="translate(57.000000, 35.000000)">
+                        <rect id="Rectangle-64" fill="#FFFFFF" x="6" y="35" width="14" height="2" rx="1"></rect>
+                        <path d="M7,24.5355787 C2.84021995,22.367528 0,18.0154484 0,13 C0,5.82029825 5.82029825,0 13,0 C20.1797017,0 26,5.82029825 26,13 C26,18.0154484 23.1597801,22.367528 19,24.5355787 L19,32 L7,32 L7,24.5355787 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="2"></path>
+                        <circle id="Oval-30" stroke="#FFFFFF" stroke-width="2" cx="13" cy="15" r="4"></circle>
+                        <rect id="Rectangle-65" fill="#FFFFFF" x="12" y="4" width="2" height="4" rx="1"></rect>
+                        <rect id="Rectangle-65-Copy" fill="#FFFFFF" transform="translate(19.121320, 9.121320) rotate(45.000000) translate(-19.121320, -9.121320) " x="18.1213203" y="7.12132034" width="2" height="4" rx="1"></rect>
+                        <rect id="Rectangle-65-Copy-2" fill="#FFFFFF" transform="translate(7.121320, 9.121320) scale(-1, 1) rotate(45.000000) translate(-7.121320, -9.121320) " x="6.12132034" y="7.12132034" width="2" height="4" rx="1"></rect>
+                        <rect id="Rectangle-63" fill="#FFFFFF" x="12" y="19" width="2" height="13"></rect>
+                    </g>
+                    <text id="商业创新" font-family="PingFangSC-Regular, PingFang SC" font-size="18" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="35" y="101">商业创新</tspan>
+                    </text>
+                </g>
+                <text id="客户导向（C2B）-员工能动（E2M）" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="851" y="182">客户导向（C2B）</tspan>
+                    <tspan x="851" y="202">员工能动（E2M）</tspan>
+                    <tspan x="851" y="222">数据驱动（DDE）</tspan>
+                    <tspan x="851" y="242">实时运营（RTE）</tspan>
+                </text>
+                <text id="数字营销与客服-社交与协同办公-智能制造" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="595" y="181">数字营销与客服</tspan>
+                    <tspan x="595" y="201">社交与协同办公</tspan>
+                    <tspan x="595" y="221">智能制造</tspan>
+                    <tspan x="595" y="241">共享服务（FI/HR…)</tspan>
+                    <tspan x="595" y="261">企业金融</tspan>
+                </text>
+                <text id="公有云（含专属云）-混合云-私有云" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="338" y="181">公有云（含专属云）</tspan>
+                    <tspan x="338" y="201">混合云</tspan>
+                    <tspan x="338" y="221">私有云</tspan>
+                </text>
+                <text id="移动互联网-云计算-大数据-人工智能-物" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" fill="#666666">
+                    <tspan x="81" y="181">移动互联网</tspan>
+                    <tspan x="81" y="201">云计算</tspan>
+                    <tspan x="81" y="221">大数据</tspan>
+                    <tspan x="81" y="241">人工智能</tspan>
+                    <tspan x="81" y="261">物联网</tspan>
+                    <tspan x="81" y="281">区块链</tspan>
+                </text>
+                <path d="M71,280.170706 L71,157 L69,157 L69,280.170706 C67.8348076,280.582542 67,281.693781 67,283 C67,284.656854 68.3431458,286 70,286 C71.6568542,286 73,284.656854 73,283 C73,281.693781 72.1651924,280.582542 71,280.170706 Z" id="Combined-Shape" fill="#DD3730" opacity="0.100000001"></path>
+                <path d="M328,220.170706 L328,157 L326,157 L326,220.170706 C324.834808,220.582542 324,221.693781 324,223 C324,224.656854 325.343146,226 327,226 C328.656854,226 330,224.656854 330,223 C330,221.693781 329.165192,220.582542 328,220.170706 Z" id="Combined-Shape" fill="#DD3730" opacity="0.100000001"></path>
+                <path d="M585,259.170706 L585,157 L583,157 L583,259.170706 C581.834808,259.582542 581,260.693781 581,262 C581,263.656854 582.343146,265 584,265 C585.656854,265 587,263.656854 587,262 C587,260.693781 586.165192,259.582542 585,259.170706 Z" id="Combined-Shape" fill="#DD3730" opacity="0.100000001"></path>
+                <path d="M842,244.170706 L842,157 L840,157 L840,244.170706 C838.834808,244.582542 838,245.693781 838,247 C838,248.656854 839.343146,250 841,250 C842.656854,250 844,248.656854 844,247 C844,245.693781 843.165192,244.582542 842,244.170706 Z" id="Combined-Shape" fill="#DD3730" opacity="0.100000001"></path>
+            </g>
+        </g>
+    </g>
+</svg>

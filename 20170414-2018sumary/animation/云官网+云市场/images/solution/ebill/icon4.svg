@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="4" y="4" width="32" height="20"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="32" height="20" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="解决方案页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-9" transform="translate(4.000000, 6.000000)">
+                <g id="Group-18">
+                    <g id="Group-7">
+                        <g id="Group-16" transform="translate(15.000000, 27.000000)" fill="#40465B">
+                            <rect id="Rectangle-9" x="0" y="0" width="2" height="8"></rect>
+                            <rect id="Rectangle-9" x="9" y="0" width="2" height="8"></rect>
+                        </g>
+                        <path d="M0,3.99683887 C0,1.78944571 1.79642476,0 4.00002553,0 L35.9999745,0 C38.2091276,0 40,1.79412025 40,3.99683887 L40,24.0031611 C40,26.2105543 38.2035752,28 35.9999745,28 L4.00002553,28 C1.79087243,28 0,26.2058797 0,24.0031611 L0,3.99683887 Z M2,4.00494659 C2,2.89764516 2.88989258,2 3.99970728,2 L36.0002927,2 C37.1047006,2 38,2.89702623 38,4.00494659 L38,23.9950534 C38,25.1023548 37.1101074,26 36.0002927,26 L3.99970728,26 C2.89529944,26 2,25.1029738 2,23.9950534 L2,4.00494659 Z" id="Combined-Shape" fill="#40465B"></path>
+                        <use id="Rectangle-23" stroke="#40465B" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-24" fill="#40465B" x="9" y="34" width="23" height="2" rx="1"></rect>
+                    </g>
+                    <circle id="Oval-6" fill="#40465B" cx="26.5" cy="9.5" r="2.5"></circle>
+                    <circle id="Oval-6" fill="#40465B" cx="11.5" cy="14.5" r="2.5"></circle>
+                    <circle id="Oval-6" fill="#40465B" cx="25.5" cy="18.5" r="2.5"></circle>
+                    <polyline id="Path-3" stroke="#40465B" stroke-width="2" points="25 10 13 15 24 18"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
