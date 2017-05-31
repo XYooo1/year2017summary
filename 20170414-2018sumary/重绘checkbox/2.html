@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style type="text/css">
+    /* .squaredThree */
+    
+    .options {
+        display: flex;
+        align-items: baseline;
+        margin-top: 10px;
+    }
+    
+    .options .text {
+        font-size: 1rem;
+        vertical-align: middle;
+        /*width: 70px;*/
+        padding-left: .4rem;
+    }
+    
+    .options label {
+        font-size: 12px;
+        cursor: pointer;
+        display: inline-block;
+    }
+    
+    .options label i {
+        font-size: 1.3rem;
+        font-style: normal;
+        display: inline-block;
+        width: 1.32rem;
+        height: 1.32rem;
+        text-align: center;
+        line-height: 1.30rem;
+        color: #fff;
+        vertical-align: middle;
+        margin: -2px 2px 1px 0px;
+        border: #999 1px solid;
+    }
+    
+    .options input[type="checkbox"],
+    .options input[type="radio"] {
+        display: none;
+    }
+    
+    .options input[type="radio"] + i,
+    .options input[type="checkbox"] + i {
+        border-radius: 50%;
+    }
+    
+    .options input[type="checkbox"]:checked + i,
+    .options input[type="radio"]:checked + i {
+        background: green;
+        border: 1px solid green;
+    }
+    .options input[type="checkbox"]:checked + i.wrong,
+    .options input[type="radio"]:checked + i.wrong {
+        background:red;
+        border: 1px solid red;
+    }
+    
+    </style>
+    <script type="text/javascript" src="http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="options">
+        <label for="a">
+            <input type="checkbox" name="options" id="a">
+            <i>✓</i>
+        </label>
+        <span class="text">荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币</span>
+    </div>
+     <div class="options">
+        <label for="b">
+            <input type="checkbox" name="options" id="b">
+            <i class="wrong">Χ</i>
+        </label>
+        <span class="text">荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币荣耀币</span>
+    </div>
+</body>
+
+</html>
