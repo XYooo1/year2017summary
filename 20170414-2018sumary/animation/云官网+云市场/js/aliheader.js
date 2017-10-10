@@ -107,6 +107,9 @@
                  Header.resetFocus();
              }
          });
+         // for(var i = 0; i< 5 ; i++){
+         //    console.log("测试" +i);
+         // }
      },
      resetFocus: function() {
          $('.line').animate({ 'width': 0 }, 200);
