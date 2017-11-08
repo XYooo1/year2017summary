@@ -1,0 +1,38 @@
+<html>
+
+<head>
+
+  <script>
+    function demo() {
+
+      var text = escape("http://www.w3school.com.cn/My first/#qpp");
+      alert(text);
+    }
+
+    function demo1() {
+      var test1 = "http://www.w3school.com.cn/My first/#qpp"
+      alert(encodeURIComponent(test1));
+
+    }
+
+    function demo3() {
+      var test1 = "http://www.w3school.com.cn/My first/#qpp"
+      alert(decodeURI(test1));
+
+    }
+
+    function myapp(text) {
+      var text = unescape(text);
+      alert(text);
+    }
+  </script>
+</head>
+
+<body>
+  <input type="button" onclick="demo()" value="escape" /><br>
+  <input type="button" onclick="demo3()" value="decodeURI" /><br>
+  <input type="button" onclick="demo1()" value="encodeURIComponent" /><br>
+  <input type="button" onclick="myapp('Visit%20W3School%21')" value="unescape" /><br>
+</body>
+
+</html>

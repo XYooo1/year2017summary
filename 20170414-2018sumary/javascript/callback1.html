@@ -1,0 +1,59 @@
+<!DOCTYPE HTML> 
+<html> 
+<head>  
+<meta charset="GBK" />
+<title>回调函数(callback)</title> 
+<script type="text/javascript" src="http://cdn.bootcss.com/jquery/1.9.0/jquery.min.js"></script>
+<script language="javascript" type="text/javascript"> 
+    var f;
+    function d(){
+        alert("i am Jquery function:d");
+    }
+    var e = function(){
+        alert("i am Jquery function:e");
+    }
+    
+    function a(callback) {    
+        alert("parent function: a");   
+        d(); 
+        if (typeof callback === "function"){
+            //alert(callback);
+            callback(); 
+        }
+    } 
+    function b(){ 
+        alert("i am callback function: b");  
+        d();
+        e();
+        f();
+    } 
+    function c(){ 
+        alert("i am callback function :c");   
+        d();
+        e();
+        f();
+    } 
+
+    function test1() { 
+        a(b); 
+    } 
+
+    function test2() { 
+        a(c); 
+    } 
+
+    $(function(){ 
+        f = function(){ 
+            alert("i am callback function:f");   
+        } 
+    });
+</script> 
+</head> 
+<body > 
+    <h1>study callback</h1> 
+    <button onClick=test1()>test a(b)</button> 
+    <button onClick=test2()>test a(c)</button> 
+    <p>two function</p> 
+    <p > </p> 
+</body> 
+</html>

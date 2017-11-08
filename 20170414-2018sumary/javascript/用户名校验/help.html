@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+	*{
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+	i{
+		font-style: normal;
+		margin-left: 10px;
+	}
+	.form{
+		margin: 50px auto;
+		width: 800px;
+		display: flex;
+		align-items:center;
+	}
+	.form form{
+		flex:1;
+	}
+	.form li{
+		margin-bottom: 10px;
+		display: flex;
+		font:16px/30px "MicroSoft YaHei";
+	}
+	li span{
+		width: 74px;
+		display: block;
+		text-align: right;
+		margin-right: 10px;	
+	}
+	li input[type="text"],li textarea,.form li input[type="submit"]{
+		width: 240px;
+		border-radius: 5px;
+		outline: none;
+		border: 1px solid #ccc;
+		text-indent: 5px;
+		font-size: 16px;
+	}
+	.form li textarea{
+		width: 300px;
+		height: 100px;
+		resize:none;
+		padding-top:3px;
+	}
+	.form li label:first-child{
+		margin-right: 50px;	
+	}
+	.form li select{
+		width: 90px;
+		border-radius: 5px;
+		font:16px/40px "MicroSoft YaHei";
+		margin-right: 10px;
+	}
+	.form li input[type=radio]{
+		width: 20px;
+		height: 20px;
+		position: relative;
+		top:5px;
+	}
+	.form li input[type="submit"]{
+		width: 80px;
+		text-indent: 0;
+		cursor: pointer;
+		font:16px/40px "MicroSoft YaHei";
+		color:#fff;
+		background:#e55e53;
+	}
+	.form li input[type="submit"]:hover{
+		background: #f78f87;
+	}
+	.gender,.birth{
+		display: inline-block;
+	}
+	.form li .borderRight{
+		border: 1px solid green;
+	}
+	.form li .borderError{
+		border: 1px solid red;
+	}
+	.right{
+		color:green;
+	}
+	.error{
+		color:red;
+	}
+	</style>
+</head>
+<body>
+	<div class="form">
+
+		<form action="reg.php" method="post">
+			<ul>
+				<li>
+					<span>用户名:</span>
+					<input type="text" name="uname" id="uname">
+					<i></i>
+				</li>
+				<li>
+					<span>昵称:</span>
+					<input type="text" name="alias" id="alias">
+					<i></i>
+				</li>
+				<li>
+					<span>密码:</span>
+					<input type="text" name="upsd" id="upsd">
+					<i></i>
+				</li>
+				<li>
+					<span>年龄:</span>
+					<input type="text">
+					<i></i>
+				</li>
+				<li>
+					<span>邮箱:</span>
+					<input type="text" name="email" id="email">
+					<i></i>
+				</li>
+				<li>
+					<span>手机号码:</span>
+					<input type="text" name="phone" id="phone">
+					<i></i>
+				</li>
+				<li>
+					<span>性别:</span>
+					<div class="gender">
+						<label for=""><input type="radio" name="gender" value="0" checked>&nbsp;女</label>
+						<label for=""><input type="radio" name="gender" value="1">&nbsp;男</label>
+					</div>
+					<i></i>
+				</li>
+				<li>
+					<span>出生日期:</span>
+					<div class="birth">
+						<select name="year" id="">
+						</select>
+						<select name="month" id="">
+						</select>
+						<select name="date" id="">
+						</select>
+					</div>
+					<i></i>
+				</li>
+				<li>
+					<span>地址:</span>
+					<textarea name="addr"></textarea>
+					<i></i>
+				</li>
+				<li><span></span><input type="submit" value="注册"><i></i></li>
+			</ul>			
+		</form>
+
+	</div>
+	<script src="js/jQuery.1.7.2.js"></script>
+<script src="https://code.jquery.com/jquery-1.7.2.js"></script>
+    
+	<script src="help.js"></script>
+</body>
+</html>

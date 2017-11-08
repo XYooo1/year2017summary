@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>绘制五角星</title>
+</head>
+
+<body>
+    <canvas id="myConvas"></canvas>
+    <img id="tulip" src="http://f12.baidu.com/it/u=1483638295,2914570561&fm=72" alt="The Tulip" style="display:none;" />
+    <script type="text/javascript">
+    window.onload = function() {
+        var canvas = document.getElementById("myConvas");
+        canvas.width = 800; //设置画布的宽度  
+        canvas.height = 800; //设置画布的高度  
+        var context = canvas.getContext("2d");
+        var context1 = canvas.getContext("2d");
+        context.lineWidth = 10;
+        //drawStar(context, 100, 200, 400, 400, img)
+        var r = 100;
+        var R = 150;
+        var x = 300;
+        var y = 300;
+
+        context.beginPath();
+
+        for (var i = 0; i < 5; i++) {
+            context.moveTo(Math.cos((18 + i * 72) * Math.PI / 180) * R + x, -Math.sin((18 + i * 72) * Math.PI / 180) * R + y);
+            context.lineTo(x, y);
+        }
+        context.strokeStyle = "#FFB5B2";
+        context.stroke()
+        context.closePath();
+
+        for (var i = 0; i < 5; i++) {
+            var img = new Image();
+            img.src = "http://f12.baidu.com/it/u=1483638295,2914570561&fm=72";
+            var imgContext = context1.createPattern(img, "no-repeat");
+            context1.moveTo(Math.cos((18 + i * 72) * Math.PI / 180) * R + x, -Math.sin((18 + i * 72) * Math.PI / 180) * R + y);
+            context1.arc(Math.cos((18 + i * 72) * Math.PI / 180) * R + x, -Math.sin((18 + i * 72) * Math.PI / 180) * R + y, 25, 0, 2 * Math.PI);
+            context.strokeStyle = "#333";
+            context1.fillStyle = imgContext;
+            // context.drawImage(img,Math.cos((18 + i * 72) * Math.PI / 180) * R + x - 25,-Math.sin((18 + i * 72) * Math.PI / 180) * R - 25 + y,50,50);
+            context1.fill();
+            context.closePath();
+        }
+    }
+    </script>
+</body>
+
+</html>

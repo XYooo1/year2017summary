@@ -1,0 +1,63 @@
+
+a{
+	text-decoration: none;
+	color: #333;
+}
+.all-canvas{
+    position: relative;
+}
+#canvas-container {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    background: pink;
+}
+
+.canvas-item {
+    width: 70px;
+    text-align: center;
+}
+
+img.canvas-item-img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+.canvas-item{
+	position: absolute;
+    z-index: 2;
+}
+.canvas-item.canvas-item-source{
+    position: absolute;
+    left: 300px;
+    top:300px;
+    margin-top: -35px;
+    margin-left: -35px;
+}
+
+.after-line:after{
+	content: '';
+	width: 70px;
+	height: 2px;
+	background: red;
+	position: absolute;
+}
+
+
+
+
+// .line {
+//     width: 5rem;
+//     height: 1px;
+//     background: red;
+//     position: absolute;
+// }
+// 
+canvas#myCanvas {
+    width: 600px;
+    height: 600px;
+    position: absolute;
+   top: 25px;
+   left: 0;
+}

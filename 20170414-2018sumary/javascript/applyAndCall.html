@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>	apply和call的区别</title>
+</head>
+<body>
+	
+</body>
+<script type="text/javascript">
+    function A(){
+        this.flag = 'A';
+        this.tip = function(){
+            alert(this.flag);
+        };
+    }
+    function B(){
+        this.flag = 'B';
+    }
+    var a = new A();
+    var b = new B();
+    a.tip.call(b);
+    //a.tip.apply(b);
+    console.log(this);
+</script>
+</html>
